@@ -1,13 +1,13 @@
 <div id="top"></div>
 <p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=its-maneeshk&label=Profile%20views&color=8a2be2&style=flat" alt="its-maneeshk" /> 
-  <a href="mailto:maneeshkurmii@gmail.com"><img src="https://img.shields.io/badge/Connect%20with%20me%20on%20a%20Mail-dc143c" alt="its-maneeshk" /> </a>
+  <img src="https://komarev.com/ghpvc/?username=dasmrpmunna&label=Profile%20views&color=8a2be2&style=flat" alt="dasmrpmunna" /> 
+  <a href="dasmrpmunna93411@gmail.com"><img src="https://img.shields.io/badge/Connect%20with%20me%20on%20a%20Mail-dc143c" alt="dasmrpmunna" /> </a>
 </p>
 
 
 
-<a href="https://twitter.com/its_maneeshk/"><img alt="Twitter Follow" src="https://img.shields.io/badge/Twitter-300-1DA1F2?style=for-the-badge&logo=twitter&logoColor=83e22b"></a>
-<a href="https://linkedin.com/in/itsmaneeshk/"><img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=128&color=83e22b"></a>
+<a href="https://twitter.com/dasmrpmunna/"><img alt="Twitter Follow" src="https://img.shields.io/badge/Twitter-300-1DA1F2?style=for-the-badge&logo=twitter&logoColor=83e22b"></a>
+<a href="https://linkedin.com/in/dasmrpmunna/"><img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=128&color=83e22b"></a>
 
 Hey there! 👋 
 ### This is Munna Das 
@@ -20,9 +20,9 @@ Dumpling 🥟 and JavaScript 😖 have been my companions along the way,but noth
 
 | **HTML/CSS**                    | **HTML/CSS/JavaScript**                                                      | **Nodejs**                   | **Java/JDBC**                                                    | **Django**                             |
 | ------------------------------  | ---------------------------------                                            | ---------------------------- | ----------------                                            | -------------------------------------- |
-| [H&M Store](https://github.com/its-maneeshk/HTML-CSS-Django-projects/tree/1af8f5055f95212081fc352667d584533f7ebe3d/H%26M-Store)          | 🌐[Library Website](https://github.com/its-maneeshk/library-Website.git)     | **Project UnderDevelopment**  | 🧮[Calculator](https://github.com/its-maneeshk/CalculatorUsing-Java.git)  | 📖[e-Book web application](https://github.com/its-maneeshk/e-Book.git)    |
-| [Eclipse - Landing Page](https://github.com/its-maneeshk/HTML-CSS-Django-projects/tree/1af8f5055f95212081fc352667d584533f7ebe3d/Eclipse%20-%20Dummy%20website%20demo)   | 🕸️[Mine Portfolio Website](https://manishpatel.netlify.app/)  | **Project UnderDevelopment** | 🎮[Quiz Game](https://github.com/its-maneeshk/Java.git)                    |**Project UnderDevelopment**    |
-| **Project UnderDevelopment**    | **Project UnderDevelopment**                                                  | **Project UnderDevelopment** | 🗼[Hotel Management System - JDBC](https://github.com/its-maneeshk/HotelManagementSystemUsingJDBC.git)  |**Project UnderDevelopment**    |
+| [H&M Store](https://github.com/its-maneeshk/HTML-CSS-Django-projects/tree/1af8f5055f95212081fc352667d584533f7ebe3d/H%26M-Store)          | 🌐[Library Website](https://github.com/dasmrpmunna/library-Website.git)     | **Project UnderDevelopment**  | 🧮[Calculator](https://github.com/dasmrpmunna/CalculatorUsing-Java.git)  | 📖[e-Book web application](https://github.com/its-maneeshk/e-Book.git)    |
+| [Eclipse - Landing Page](https://github.com/dasmrpmunna/HTML-CSS-Django-projects/tree/1af8f5055f95212081fc352667d584533f7ebe3d/Eclipse%20-%20Dummy%20website%20demo)   | 🕸️[Mine Portfolio Website](https://munnadas.netlify.app/)  | **Project UnderDevelopment** | 🎮[Quiz Game](https://github.com/dasmrpmunna/Java.git)                    |**Project UnderDevelopment**    |
+| **Project UnderDevelopment**    | **Project UnderDevelopment**                                                  | **Project UnderDevelopment** | 🗼[Hotel Management System - JDBC](https://github.com/dasmrpmunna/HotelManagementSystemUsingJDBC.git)  |**Project UnderDevelopment**    |
 
 <!--🗼[NFT Site](https://segunajibola.github.io/nft-site/) -->
 
