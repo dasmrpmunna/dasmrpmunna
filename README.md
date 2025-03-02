@@ -18,9 +18,9 @@ Dumpling 🥟 and JavaScript 😖 have been my companions along the way,but noth
 
 ### Projects Created Using 🪶
 
-| **HTML/CSS**                    | **HTML/CSS/JavaScript**                                                      | **Nodejs**                   | **Java/JDBC**                                                    | **Django**                             |
+| **Machine Learning**                    | **HTML/CSS/JavaScript**                                                      | **Nodejs**                   | **Java/JDBC**                                                    | **Django**                             |
 | ------------------------------  | ---------------------------------                                            | ---------------------------- | ----------------                                            | -------------------------------------- |
-| [H&M Store](https://github.com/its-maneeshk/HTML-CSS-Django-projects/tree/1af8f5055f95212081fc352667d584533f7ebe3d/H%26M-Store)          | 🌐[Library Website](https://github.com/dasmrpmunna/library-Website.git)     | **Project UnderDevelopment**  | 🧮[Calculator](https://github.com/dasmrpmunna/CalculatorUsing-Java.git)  | 📖[e-Book web application](https://github.com/its-maneeshk/e-Book.git)    |
+| [Predict Crop Production](https://github.com/dasmrpmunna/Predict-Crop-Production.git)          | 🌐[Library Website](https://github.com/dasmrpmunna/library-Website.git)     | **Project UnderDevelopment**  | 🧮[Calculator](https://github.com/dasmrpmunna/CalculatorUsing-Java.git)  | 📖[e-Book web application](https://github.com/its-maneeshk/e-Book.git)    |
 | [Eclipse - Landing Page](https://github.com/dasmrpmunna/HTML-CSS-Django-projects/tree/1af8f5055f95212081fc352667d584533f7ebe3d/Eclipse%20-%20Dummy%20website%20demo)   | 🕸️[Mine Portfolio Website](https://munnadas.netlify.app/)  | **Project UnderDevelopment** | 🎮[Quiz Game](https://github.com/dasmrpmunna/Java.git)                    |**Project UnderDevelopment**    |
 | **Project UnderDevelopment**    | **Project UnderDevelopment**                                                  | **Project UnderDevelopment** | 🗼[Hotel Management System - JDBC](https://github.com/dasmrpmunna/HotelManagementSystemUsingJDBC.git)  |**Project UnderDevelopment**    |
 
