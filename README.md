@@ -78,6 +78,6 @@ More Projects on my [portfolio](https://munnadas.netlify.app/)
 </p>
 
 <p align="center">
-  🚀 Follow my work at <a href="https://github.com/its-maneeshk" target="_blank">GitHub</a> and let's build something amazing together!
+  🚀 Follow my work at <a href="https://github.com/dasmrpmunna" target="_blank">GitHub</a> and let's build something amazing together!
 </p>
 
