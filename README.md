@@ -11,14 +11,14 @@
 
 Hey there! 👋 
 ### This is Munna Das 
-Dumpling 🥟 and JavaScript 😖 have been my companions along the way,but nothing beats the thrill of React/TailwindCSS 🔥. Excited to connect and learn together! 
+Dumpling 🥟 and Statistics 📊 have been my companions along the way, but nothing beats the thrill of Machine Learning/Python 🔥. Excited to connect and learn together! 
 
 <div align= "center">
 
 
 ### Projects Created Using 🪶
 
-| **Machine Learning**                    | **HTML/CSS/JavaScript**                                                      | **MEARN**                   | **Java/JDBC**                                                    | **Django**                             |
+| **Machine Learning**                    | **HTML/CSS/JavaScript**                                                      | **MEARN**                                                                   | **FLASK**                             |
 | ------------------------------  | ---------------------------------                                            | ---------------------------- | ----------------                                            | -------------------------------------- |
 | [Predict Crop Production](https://github.com/dasmrpmunna/Predict-Crop-Production.git)          | 🌐[Library Website](https://github.com/dasmrpmunna/library-Website.git)     | **Project UnderDevelopment**  | 🧮[Calculator](https://github.com/dasmrpmunna/CalculatorUsing-Java.git)  | 📖[e-Book web application]([https://github.com/dasmrpmunna/eBook.git])    |
 | [Predict Placement-Detection](https://github.com/dasmrpmunna/HTML-CSS-Django-projects/tree/1af8f5055f95212081fc352667d584533f7ebe3d/Eclipse%20-%20Dummy%20website%20demo)   | 🕸️[Mine Portfolio Website](https://munnadas.netlify.app/)  | **Project UnderDevelopment** | 🎮[Quiz Game](https://github.com/dasmrpmunna/Java.git)                    |**Project UnderDevelopment**    |
