@@ -95,7 +95,7 @@
 
 ###
 
-<img src="https://github.com/dasmrpmunna/dasmrpmunna/blob/main/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/dasmrpmunna/dasmrpmunna/output/snake.svg" alt="Snake animation" />
 
 ###
 
