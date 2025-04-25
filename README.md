@@ -23,13 +23,14 @@
 </div>
 
 ###
+<!--
 
 <br clear="both">
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dasmrpmunna.dasmrpmunna&"  />
 </div>
 
+-->
 ###
 
 <h1 align="center">hey there 👋</h1>
@@ -43,6 +44,12 @@
 <p align="left">I'm Munna Das... from Nepal...<br><br>- 🔭 I’m working as Data Scientist<br>- 📚 I'm currently learning Machine Learning and Deep Learning...<br>- ⚡ In my free time I'm learning Flask</p>
 
 ###
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -73,25 +80,29 @@
 </div>
 
 ###
+<!-- 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dasmrpmunna&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dasmrpmunna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+-->
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <h3 align="left">🔥   My Stats :</h3>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dasmrpmunna&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dasmrpmunna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&custom_title=Python,%20Data%20Science" height="150" alt="languages graph"  />
+  <!--<img src="https://streak-stats.demolab.com?user=dasmrpmunna&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=16&order=3" height="152" alt="streak graph"  /> -->
+  <img src="https://github-profile-trophy.vercel.app?username=dasmrpmunna&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dasmrpmunna&radius=16&theme=nightowl&area=true&order=5" height="286" alt="activity-graph graph"  />
+</div>
+
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=dasmrpmunna&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+
+###
 
 ###
 <!-- Snake Game -->
@@ -110,13 +121,16 @@
 
 ###
 
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dasmrpmunna&show_icons=true&theme=gotham" alt="munnadas" /> -->
+
 
 ###
-
+<!-- 
 <br clear="both">
 
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=dasmrpmunna&theme=radical" alt="Layout with last medium posts"  />
 </div>
+-->
 
 ###
