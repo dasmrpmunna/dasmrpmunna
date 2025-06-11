@@ -107,7 +107,7 @@
 ###
 
 <!-- Snake Game -->
- <img src="https://raw.githubusercontent.com/dasmrpmunna/dasmrpmunna/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/dasmrpmunna/dasmrpmunna/output/snake.svg" alt="Snake animation" />   -->
 
 
 ###
