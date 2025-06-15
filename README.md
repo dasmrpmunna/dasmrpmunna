@@ -89,9 +89,18 @@ I'm Munna Das... from Nepal...<br><br>
 
 ###
 
+###
+
+<!-- Snake Game -->
+ -- <img src="https://raw.githubusercontent.com/dasmrpmunna/dasmrpmunna/output/snake.svg" alt="Snake animation" />   
+
+
+###
+
+
 ### 🕹️ GitHub Contribution Pac-Man
 
- [Pacman Contribution Graph](https://raw.githubusercontent.com/dasmrpmunna/dasmrpmunna/output/pacman-contribution-graph-dark.svg)
+ <!--[Pacman Contribution Graph](https://raw.githubusercontent.com/dasmrpmunna/dasmrpmunna/output/pacman-contribution-graph-dark.svg)-->
 
 <!--
 Alternate Light Mode version:
