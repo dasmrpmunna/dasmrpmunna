@@ -91,7 +91,7 @@ I'm Munna Das... from Nepal...<br><br>
 
 ### 🕹️ GitHub Contribution Pac-Man
 
-![Pacman Contribution Graph](https://raw.githubusercontent.com/dasmrpmunna/dasmrpmunna/output/pacman-contribution-graph-dark.svg)
+ [Pacman Contribution Graph](https://raw.githubusercontent.com/dasmrpmunna/dasmrpmunna/output/pacman-contribution-graph-dark.svg)
 
 <!--
 Alternate Light Mode version:
