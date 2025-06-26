@@ -38,7 +38,7 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-I'm Munna Das... from Nepal...<br><br>
+I'm Munna Das... from Nepal...🇳🇵🖤<br><br>
 - 🔭 I’m working as a Data Scientist<br>
 - 📚 I'm currently learning Machine Learning and Deep Learning<br>
 - ⚡ In my free time I'm learning Flask
